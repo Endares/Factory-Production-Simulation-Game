@@ -1,0 +1,4 @@
+verbose 2
+request 'door' from 'D'
+step 50
+finish

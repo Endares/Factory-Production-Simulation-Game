@@ -1,0 +1,30 @@
+{
+    "types": [
+      { "name": "door", "recipes": ["door"] },
+      { "name": "handle", "recipes": ["handle"] },
+      { "name": "hinge", "recipes": ["hinge"] }
+    ],
+    "buildings": [
+      { "name": "D", "type": "door", "x": 5, "y": 5, "sources": ["W", "Hi", "S1", "Ha"] },
+      { "name": "Ha", "type": "handle", "x": 10, "y": 2, "sources": ["M"] },
+      { "name": "Hi", "type": "hinge", "x": 10, "y": 5 ,"sources": ["M"] },
+      { "name": "W", "mine": "wood", "x": 1, "y": 1, "sources": [] },
+      { "name": "M", "mine": "metal", "x": 13, "y": 3, "sources": [] },
+      { "name": "S1", "stores": "hinge", "x": 10, "y": 10, "capacity": 100, "priority": 1.7, "sources": ["Hi"] }
+    ],
+    "recipes": [
+      { "output": "door", "ingredients": { "wood": 1, "handle": 1, "hinge": 3 }, "latency": 12 },
+      { "output": "handle", "ingredients": { "metal": 1 }, "latency": 5 },
+      { "output": "hinge", "ingredients": { "metal": 1 }, "latency": 1 },
+      { "output": "wood", "ingredients": {}, "latency": 1 },
+      { "output": "metal", "ingredients": {}, "latency": 1 }
+    ],
+    "connections": [
+      { "source": "M", "destination": "Ha" },
+      { "source": "Hi", "destination": "S1" },
+      { "source": "Hi", "destination": "D" },
+      { "source": "Ha", "destination": "D" },
+      { "source": "M", "destination": "Hi"},
+      { "source": "S1", "destination": "D" }
+    ]
+}

@@ -1,0 +1,2499 @@
+0> Verbosity level set to 2
+0> Validating connections for building: D, item: door
+0> Processing building: W
+Processing building: M
+Processing building: Hi
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 0 [storage request]
+    Hi: 0 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 0
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 0
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 2
+    0: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 1 [storage request]
+    Hi: 1 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 1
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 1
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 3
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 2 [storage request]
+    Hi: 2 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 2
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 2
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 4
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 3 [storage request]
+    Hi: 3 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 3
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 3
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 5
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+    3: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 4 [storage request]
+    Hi: 4 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 4
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 4
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 6
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+    3: is not ready, waiting on {metal}
+    4: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 5 [storage request]
+    Hi: 5 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 5
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 5
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 7
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+    3: is not ready, waiting on {metal}
+    4: is not ready, waiting on {metal}
+    5: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 6 [storage request]
+    Hi: 6 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 6
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 6
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 8
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+    3: is not ready, waiting on {metal}
+    4: is not ready, waiting on {metal}
+    5: is not ready, waiting on {metal}
+    6: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 7 [storage request]
+    Hi: 7 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 7
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 7
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 9
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+    3: is not ready, waiting on {metal}
+    4: is not ready, waiting on {metal}
+    5: is not ready, waiting on {metal}
+    6: is not ready, waiting on {metal}
+    7: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 8 [storage request]
+    Hi: 8 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 8
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 8
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 10
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+    3: is not ready, waiting on {metal}
+    4: is not ready, waiting on {metal}
+    5: is not ready, waiting on {metal}
+    6: is not ready, waiting on {metal}
+    7: is not ready, waiting on {metal}
+    8: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 9 [storage request]
+    Hi: 9 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 9
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 9
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 11
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+    3: is not ready, waiting on {metal}
+    4: is not ready, waiting on {metal}
+    5: is not ready, waiting on {metal}
+    6: is not ready, waiting on {metal}
+    7: is not ready, waiting on {metal}
+    8: is not ready, waiting on {metal}
+    9: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 10 [storage request]
+    Hi: 10 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 10
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 10
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 12
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+    3: is not ready, waiting on {metal}
+    4: is not ready, waiting on {metal}
+    5: is not ready, waiting on {metal}
+    6: is not ready, waiting on {metal}
+    7: is not ready, waiting on {metal}
+    8: is not ready, waiting on {metal}
+    9: is not ready, waiting on {metal}
+    10: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 11 [storage request]
+    Hi: 11 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 11
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 11
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 13
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+    3: is not ready, waiting on {metal}
+    4: is not ready, waiting on {metal}
+    5: is not ready, waiting on {metal}
+    6: is not ready, waiting on {metal}
+    7: is not ready, waiting on {metal}
+    8: is not ready, waiting on {metal}
+    9: is not ready, waiting on {metal}
+    10: is not ready, waiting on {metal}
+    11: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 12 [storage request]
+    Hi: 12 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 12
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 12
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 14
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+    3: is not ready, waiting on {metal}
+    4: is not ready, waiting on {metal}
+    5: is not ready, waiting on {metal}
+    6: is not ready, waiting on {metal}
+    7: is not ready, waiting on {metal}
+    8: is not ready, waiting on {metal}
+    9: is not ready, waiting on {metal}
+    10: is not ready, waiting on {metal}
+    11: is not ready, waiting on {metal}
+    12: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 13 [storage request]
+    Hi: 13 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 13
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 13
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 15
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+    3: is not ready, waiting on {metal}
+    4: is not ready, waiting on {metal}
+    5: is not ready, waiting on {metal}
+    6: is not ready, waiting on {metal}
+    7: is not ready, waiting on {metal}
+    8: is not ready, waiting on {metal}
+    9: is not ready, waiting on {metal}
+    10: is not ready, waiting on {metal}
+    11: is not ready, waiting on {metal}
+    12: is not ready, waiting on {metal}
+    13: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 14 [storage request]
+    Hi: 14 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 14
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 14
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 16
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+    3: is not ready, waiting on {metal}
+    4: is not ready, waiting on {metal}
+    5: is not ready, waiting on {metal}
+    6: is not ready, waiting on {metal}
+    7: is not ready, waiting on {metal}
+    8: is not ready, waiting on {metal}
+    9: is not ready, waiting on {metal}
+    10: is not ready, waiting on {metal}
+    11: is not ready, waiting on {metal}
+    12: is not ready, waiting on {metal}
+    13: is not ready, waiting on {metal}
+    14: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 15 [storage request]
+    Hi: 15 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 15
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 15
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 17
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+    3: is not ready, waiting on {metal}
+    4: is not ready, waiting on {metal}
+    5: is not ready, waiting on {metal}
+    6: is not ready, waiting on {metal}
+    7: is not ready, waiting on {metal}
+    8: is not ready, waiting on {metal}
+    9: is not ready, waiting on {metal}
+    10: is not ready, waiting on {metal}
+    11: is not ready, waiting on {metal}
+    12: is not ready, waiting on {metal}
+    13: is not ready, waiting on {metal}
+    14: is not ready, waiting on {metal}
+    15: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 16 [storage request]
+    Hi: 16 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 16
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 16
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 18
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+    3: is not ready, waiting on {metal}
+    4: is not ready, waiting on {metal}
+    5: is not ready, waiting on {metal}
+    6: is not ready, waiting on {metal}
+    7: is not ready, waiting on {metal}
+    8: is not ready, waiting on {metal}
+    9: is not ready, waiting on {metal}
+    10: is not ready, waiting on {metal}
+    11: is not ready, waiting on {metal}
+    12: is not ready, waiting on {metal}
+    13: is not ready, waiting on {metal}
+    14: is not ready, waiting on {metal}
+    15: is not ready, waiting on {metal}
+    16: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 17 [storage request]
+    Hi: 17 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 17
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 17
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 19
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+    3: is not ready, waiting on {metal}
+    4: is not ready, waiting on {metal}
+    5: is not ready, waiting on {metal}
+    6: is not ready, waiting on {metal}
+    7: is not ready, waiting on {metal}
+    8: is not ready, waiting on {metal}
+    9: is not ready, waiting on {metal}
+    10: is not ready, waiting on {metal}
+    11: is not ready, waiting on {metal}
+    12: is not ready, waiting on {metal}
+    13: is not ready, waiting on {metal}
+    14: is not ready, waiting on {metal}
+    15: is not ready, waiting on {metal}
+    16: is not ready, waiting on {metal}
+    17: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 18 [storage request]
+    Hi: 18 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 18
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 18
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 20
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+    3: is not ready, waiting on {metal}
+    4: is not ready, waiting on {metal}
+    5: is not ready, waiting on {metal}
+    6: is not ready, waiting on {metal}
+    7: is not ready, waiting on {metal}
+    8: is not ready, waiting on {metal}
+    9: is not ready, waiting on {metal}
+    10: is not ready, waiting on {metal}
+    11: is not ready, waiting on {metal}
+    12: is not ready, waiting on {metal}
+    13: is not ready, waiting on {metal}
+    14: is not ready, waiting on {metal}
+    15: is not ready, waiting on {metal}
+    16: is not ready, waiting on {metal}
+    17: is not ready, waiting on {metal}
+    18: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 19 [storage request]
+    Hi: 19 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 19
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 19
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 21
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+    3: is not ready, waiting on {metal}
+    4: is not ready, waiting on {metal}
+    5: is not ready, waiting on {metal}
+    6: is not ready, waiting on {metal}
+    7: is not ready, waiting on {metal}
+    8: is not ready, waiting on {metal}
+    9: is not ready, waiting on {metal}
+    10: is not ready, waiting on {metal}
+    11: is not ready, waiting on {metal}
+    12: is not ready, waiting on {metal}
+    13: is not ready, waiting on {metal}
+    14: is not ready, waiting on {metal}
+    15: is not ready, waiting on {metal}
+    16: is not ready, waiting on {metal}
+    17: is not ready, waiting on {metal}
+    18: is not ready, waiting on {metal}
+    19: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 20 [storage request]
+    Hi: 20 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 20
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 20
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 22
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+    3: is not ready, waiting on {metal}
+    4: is not ready, waiting on {metal}
+    5: is not ready, waiting on {metal}
+    6: is not ready, waiting on {metal}
+    7: is not ready, waiting on {metal}
+    8: is not ready, waiting on {metal}
+    9: is not ready, waiting on {metal}
+    10: is not ready, waiting on {metal}
+    11: is not ready, waiting on {metal}
+    12: is not ready, waiting on {metal}
+    13: is not ready, waiting on {metal}
+    14: is not ready, waiting on {metal}
+    15: is not ready, waiting on {metal}
+    16: is not ready, waiting on {metal}
+    17: is not ready, waiting on {metal}
+    18: is not ready, waiting on {metal}
+    19: is not ready, waiting on {metal}
+    20: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 21 [storage request]
+    Hi: 21 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 21
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 21
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 23
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+    3: is not ready, waiting on {metal}
+    4: is not ready, waiting on {metal}
+    5: is not ready, waiting on {metal}
+    6: is not ready, waiting on {metal}
+    7: is not ready, waiting on {metal}
+    8: is not ready, waiting on {metal}
+    9: is not ready, waiting on {metal}
+    10: is not ready, waiting on {metal}
+    11: is not ready, waiting on {metal}
+    12: is not ready, waiting on {metal}
+    13: is not ready, waiting on {metal}
+    14: is not ready, waiting on {metal}
+    15: is not ready, waiting on {metal}
+    16: is not ready, waiting on {metal}
+    17: is not ready, waiting on {metal}
+    18: is not ready, waiting on {metal}
+    19: is not ready, waiting on {metal}
+    20: is not ready, waiting on {metal}
+    21: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 22 [storage request]
+    Hi: 22 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 22
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 22
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 24
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+    3: is not ready, waiting on {metal}
+    4: is not ready, waiting on {metal}
+    5: is not ready, waiting on {metal}
+    6: is not ready, waiting on {metal}
+    7: is not ready, waiting on {metal}
+    8: is not ready, waiting on {metal}
+    9: is not ready, waiting on {metal}
+    10: is not ready, waiting on {metal}
+    11: is not ready, waiting on {metal}
+    12: is not ready, waiting on {metal}
+    13: is not ready, waiting on {metal}
+    14: is not ready, waiting on {metal}
+    15: is not ready, waiting on {metal}
+    16: is not ready, waiting on {metal}
+    17: is not ready, waiting on {metal}
+    18: is not ready, waiting on {metal}
+    19: is not ready, waiting on {metal}
+    20: is not ready, waiting on {metal}
+    21: is not ready, waiting on {metal}
+    22: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 23 [storage request]
+    Hi: 23 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 23
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 23
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 25
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+    3: is not ready, waiting on {metal}
+    4: is not ready, waiting on {metal}
+    5: is not ready, waiting on {metal}
+    6: is not ready, waiting on {metal}
+    7: is not ready, waiting on {metal}
+    8: is not ready, waiting on {metal}
+    9: is not ready, waiting on {metal}
+    10: is not ready, waiting on {metal}
+    11: is not ready, waiting on {metal}
+    12: is not ready, waiting on {metal}
+    13: is not ready, waiting on {metal}
+    14: is not ready, waiting on {metal}
+    15: is not ready, waiting on {metal}
+    16: is not ready, waiting on {metal}
+    17: is not ready, waiting on {metal}
+    18: is not ready, waiting on {metal}
+    19: is not ready, waiting on {metal}
+    20: is not ready, waiting on {metal}
+    21: is not ready, waiting on {metal}
+    22: is not ready, waiting on {metal}
+    23: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 24 [storage request]
+    Hi: 24 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 24
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 24
+Processing building: D
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 26
+    0: is not ready, waiting on {metal}
+    1: is not ready, waiting on {metal}
+    2: is not ready, waiting on {metal}
+    3: is not ready, waiting on {metal}
+    4: is not ready, waiting on {metal}
+    5: is not ready, waiting on {metal}
+    6: is not ready, waiting on {metal}
+    7: is not ready, waiting on {metal}
+    8: is not ready, waiting on {metal}
+    9: is not ready, waiting on {metal}
+    10: is not ready, waiting on {metal}
+    11: is not ready, waiting on {metal}
+    12: is not ready, waiting on {metal}
+    13: is not ready, waiting on {metal}
+    14: is not ready, waiting on {metal}
+    15: is not ready, waiting on {metal}
+    16: is not ready, waiting on {metal}
+    17: is not ready, waiting on {metal}
+    18: is not ready, waiting on {metal}
+    19: is not ready, waiting on {metal}
+    20: is not ready, waiting on {metal}
+    21: is not ready, waiting on {metal}
+    22: is not ready, waiting on {metal}
+    23: is not ready, waiting on {metal}
+    24: is not ready, waiting on {metal}
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 25 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 25
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 25
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 27
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 27
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 27
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 26 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 26
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 26
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 28
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 28
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 28
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 27 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 27
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 27
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 29
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 29
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 29
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 28 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 28
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 28
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 30
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 30
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 30
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 29 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 29
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 29
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 31
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 31
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 31
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 30 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 30
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 30
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 32
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 32
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 32
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 31 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 31
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 31
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 33
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 33
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 33
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 32 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 32
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 32
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 34
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 34
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 34
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 33 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 33
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 33
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 35
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 35
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 35
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 34 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 34
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 34
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 36
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 36
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 36
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 35 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 35
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 35
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 37
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 37
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 37
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 36 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 36
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 36
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 38
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 38
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 38
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 37 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 37
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 37
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 39
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 39
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 39
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 38 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 38
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 38
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 40
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 40
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 40
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 39 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 39
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 39
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 41
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 41
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 41
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 40 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 40
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 40
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 42
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 42
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 42
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 41 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 41
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 41
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 43
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 43
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 43
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 42 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 42
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 42
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 44
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 44
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 44
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 43 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 43
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 43
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 45
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 45
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 45
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 44 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 44
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 44
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 46
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 46
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 46
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 45 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 45
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 45
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 47
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 47
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 47
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 46 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 46
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 46
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 48
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 48
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 48
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 47 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 47
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 47
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 49
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 49
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 49
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 48 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 48
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 48
+Processing building: D
+[ingredient delivered]: metal to Hi from M on cycle 50
+    0: hinge is ready
+    1: hinge is ready
+    2: hinge is ready
+    3: hinge is ready
+    4: hinge is ready
+    5: hinge is ready
+    6: hinge is ready
+    7: hinge is ready
+    8: hinge is ready
+    9: hinge is ready
+    10: hinge is ready
+    11: hinge is ready
+    12: hinge is ready
+    13: hinge is ready
+    14: hinge is ready
+    15: hinge is ready
+    16: hinge is ready
+    17: hinge is ready
+    18: hinge is ready
+    19: hinge is ready
+    20: hinge is ready
+    21: hinge is ready
+    22: hinge is ready
+    23: hinge is ready
+    24: hinge is ready
+    25: hinge is ready
+Processing building: W
+Processing building: M
+Processing building: Hi
+[recipe selection]: Hi has fifo on cycle 50
+    0: is ready
+    1: is ready
+    2: is ready
+    3: is ready
+    4: is ready
+    5: is ready
+    6: is ready
+    7: is ready
+    8: is ready
+    9: is ready
+    10: is ready
+    11: is ready
+    12: is ready
+    13: is ready
+    14: is ready
+    15: is ready
+    16: is ready
+    17: is ready
+    18: is ready
+    19: is ready
+    20: is ready
+    21: is ready
+    22: is ready
+    23: is ready
+    24: is ready
+    25: is ready
+    Selecting 0
+[ingredient delivered]: hinge to S1 from Hi on cycle 50
+Processing building: Ha
+Processing building: S1
+[source selection]: S1 (qlen) has request for hinge on cycle 49 [storage request]
+    Hi: 25 [storage request]
+    Selecting Hi [storage request]
+[ingredient assignment]: hinge assigned to Hi to deliver to S1 [storage request]
+[source selection]: Hi (qlen) has request for hinge on 49
+[Hi:hinge:0] For ingredient metal
+    M: 0
+    Selecting M
+[ingredient assignment]: metal assigned to M to deliver to Hi
+[source selection]: M (qlen) has request for metal on 49
+Processing building: D
+Advanced simulation by 50 steps. Current time: 50
+50> Final simulation time: 50
+Simulation finished at time 50

@@ -1,0 +1,26 @@
+{
+    "types": [
+        {
+            "name" : "Bolt Storage (100)",
+            "type" : "storage",
+            "info" : {"stores" : "bolt",
+                    "capacity" : 100,
+                    "priority" : 1.7}
+        },
+        {
+            "name" : "Door Factory",
+            "type" : "factory",
+            "info" : {"recipes" : [ "door", "bolt"]}
+        },
+        {
+            "name" : "Metal Mine",
+            "type" : "mine",
+            "info" : {"mine" : "metal"}
+        },
+        {
+            "name" : "Drone Port",
+            "type" : "drone",
+            "info" : {}
+        }
+    ]
+}

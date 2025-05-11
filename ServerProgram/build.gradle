@@ -1,0 +1,56 @@
+plugins {
+    id 'application'
+}
+
+group = 'edu.duke.ece651'
+version = '1.0-SNAPSHOT'
+
+application {
+    mainClassName = 'edu.duke.ece651.hw2.simulation.Main'
+}
+
+run {
+    standardInput = System.in
+}
+
+tasks.register('ServerMain', JavaExec) {
+    mainClass = 'edu.duke.ece651.hw2.simulation.ServerMain'
+    classpath = sourceSets.main.runtimeClasspath
+}
+
+tasks.register('ClientMain', JavaExec) {
+    mainClass = 'edu.duke.ece651.hw2.simulation.ClientMain'
+    classpath = sourceSets.main.runtimeClasspath
+    standardInput = System.in
+}
+
+tasks.register('NewMain', JavaExec) {
+    mainClass = 'edu.duke.ece651.hw2.simulation.NewMain'
+    classpath = sourceSets.main.runtimeClasspath
+    standardInput = System.in
+}
+
+tasks.register('NewServerMain', JavaExec) {
+    mainClass = 'edu.duke.ece651.hw2.simulation.NewServerMain'
+    classpath = sourceSets.main.runtimeClasspath
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    implementation 'org.junit.jupiter:junit-jupiter-api:5.10.0'
+
+    implementation 'org.json:json:20240303'
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.15.3'
+}
+
+test {
+    useJUnitPlatform()
+    testLogging {
+        showStandardStreams = true
+    }
+}

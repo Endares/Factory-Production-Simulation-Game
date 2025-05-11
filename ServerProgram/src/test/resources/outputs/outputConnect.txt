@@ -1,0 +1,27 @@
+0> Validating connections for building: D, item: door
+0> Connected D to W
+0> Connected D to Hi
+0> 0> Processing building: M
+Processing building: Ha
+Processing building: M
+Processing building: Ha
+Processing building: M
+Processing building: Ha
+Processing building: M
+Processing building: Ha
+Processing building: M
+Processing building: Ha
+Processing building: M
+Processing building: Ha
+Processing building: M
+Processing building: Ha
+Processing building: M
+Processing building: Ha
+Processing building: M
+Processing building: Ha
+Processing building: M
+Processing building: Ha
+Advanced simulation by 10 steps. Current time: 10
+10> Verbosity level set to 2
+10> Final simulation time: 10
+Simulation finished at time 10

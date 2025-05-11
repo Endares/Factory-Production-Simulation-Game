@@ -1,0 +1,96 @@
+0> Removed path from D to Hi
+M to Ha
+M to Hi
+M to D
+M to W
+M to S1
+W to Ha
+W to Hi
+W to D
+D to W
+D to S1
+D to M
+Hi to M
+Ha to S1
+S1 to M
+Hi to Ha
+0> Removed path from D to M
+M to Ha
+M to Hi
+M to D
+M to W
+M to S1
+W to Ha
+W to Hi
+W to D
+D to W
+D to S1
+Hi to M
+Ha to S1
+S1 to M
+Hi to Ha
+0> 0> Cannot remove non-existing path!
+0> Removed path from Ha to S1
+M to Ha
+M to Hi
+M to D
+M to W
+M to S1
+W to Ha
+W to Hi
+W to D
+D to W
+D to S1
+Hi to M
+S1 to M
+Hi to Ha
+0> Removed path from D to S1
+M to Ha
+M to Hi
+M to D
+M to W
+M to S1
+W to Ha
+W to Hi
+W to D
+D to W
+Hi to M
+S1 to M
+Hi to Ha
+0> 0> Removed path from W to Ha
+M to Ha
+M to Hi
+M to D
+M to W
+M to S1
+W to Hi
+W to D
+D to W
+Hi to M
+S1 to M
+Hi to Ha
+0> Removed path from Hi to Ha
+M to Ha
+M to Hi
+M to D
+M to W
+M to S1
+W to Hi
+W to D
+D to W
+Hi to M
+S1 to M
+0> 0> Cannot remove non-existing path!
+0> Cannot remove non-existing path!
+0> Removed path from M to Ha
+M to Hi
+M to D
+M to W
+M to S1
+W to Hi
+W to D
+D to W
+Hi to M
+S1 to M
+0> 0> Final simulation time: 0
+Simulation finished at time 0

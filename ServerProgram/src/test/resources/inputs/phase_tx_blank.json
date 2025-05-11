@@ -1,0 +1,77 @@
+{
+    "recipes": [
+      { "output": "bolt",   "ingredients": {},                    "latency": 1 },
+      { "output": "wood",   "ingredients": {},                    "latency": 1 },
+      { "output": "metal",  "ingredients": {},                    "latency": 1 },
+      { "output": "handle", "ingredients": { "metal": 1 },        "latency": 5 },
+      { "output": "hinge",  "ingredients": { "metal": 1 },        "latency": 1 },
+      { "output": "door",   "ingredients": { "wood": 1, "handle": 1, "hinge": 3 }, "latency": 12 }
+    ],
+  
+    "types": [
+      {
+        "name": "Bolt Storage",
+        "type": "storage",
+        "info": {
+          "stores":   "bolt",
+          "capacity": 100,
+          "priority": 1.7
+        }
+      },
+      {
+        "name": "Hinge Storage",
+        "type": "storage",
+        "info": {
+          "stores":   "hinge",
+          "capacity": 100,
+          "priority": 1.7
+        }
+      },
+      {
+        "name": "Door Factory",
+        "type": "factory",
+        "info": {
+          "recipes": [ "door" ]
+        }
+      },
+      {
+        "name": "Metal Mine",
+        "type": "mine",
+        "info": {
+          "mine": "metal"
+        }
+      },
+      {
+        "name": "Wood Mine",
+        "type": "mine",
+        "info": {
+          "mine": "wood"
+        }
+      },
+      {
+        "name": "Handle Factory",
+        "type": "factory",
+        "info": {
+          "recipes": [ "handle" ]
+        }
+      },
+      {
+        "name": "Hinge Factory",
+        "type": "factory",
+        "info": {
+          "recipes": [ "hinge" ]
+        }
+      },
+      {
+        "name": "Drone Port",
+        "type": "drone",
+        "info": {}
+      }
+    ],
+  
+    "buildings": [
+    ],
+  
+    "connections": [
+    ]
+  }

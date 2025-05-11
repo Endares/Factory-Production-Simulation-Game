@@ -1,0 +1,133 @@
+{
+    "recipes": [
+      { "output": "bolt",   "ingredients": {},                    "latency": 1 },
+      { "output": "wood",   "ingredients": {},                    "latency": 1 },
+      { "output": "metal",  "ingredients": {},                    "latency": 1 },
+      { "output": "handle", "ingredients": { "metal": 1 },        "latency": 5 },
+      { "output": "hinge",  "ingredients": { "metal": 1 },        "latency": 1 },
+      { "output": "door",   "ingredients": { "wood": 1, "handle": 1, "hinge": 3 }, "latency": 12 }
+    ],
+  
+    "types": [
+      {
+        "name": "Bolt Storage",
+        "type": "storage",
+        "info": {
+          "stores":   "bolt",
+          "capacity": 100,
+          "priority": 1.7
+        }
+      },
+      {
+        "name": "Hinge Storage",
+        "type": "storage",
+        "info": {
+          "stores":   "hinge",
+          "capacity": 100,
+          "priority": 1.7
+        }
+      },
+      {
+        "name": "Door Factory",
+        "type": "factory",
+        "info": {
+          "recipes": [ "door" ]
+        }
+      },
+      {
+        "name": "Metal Mine",
+        "type": "mine",
+        "info": {
+          "mine": "metal"
+        }
+      },
+      {
+        "name": "Wood Mine",
+        "type": "mine",
+        "info": {
+          "mine": "wood"
+        }
+      },
+      {
+        "name": "Handle Factory",
+        "type": "factory",
+        "info": {
+          "recipes": [ "handle" ]
+        }
+      },
+      {
+        "name": "Hinge Factory",
+        "type": "factory",
+        "info": {
+          "recipes": [ "hinge" ]
+        }
+      },
+      {
+        "name": "Drone Port",
+        "type": "drone",
+        "info": {}
+      }
+    ],
+  
+    "buildings": [
+      {
+        "name": "M1",
+        "type": "Metal Mine",
+        "sources": [],
+        "x": 1,
+        "y": 1
+      },
+      {
+        "name": "W1",
+        "type": "Wood Mine",
+        "sources": [],
+        "x": 2,
+        "y": 8
+      },
+      {
+        "name": "Ha",
+        "type": "Handle Factory",
+        "sources": [ "M1" ],
+        "x": 4,
+        "y": 12
+      },
+      {
+        "name": "Hi",
+        "type": "Hinge Factory",
+        "sources": [ "M1" ],
+        "x": 6,
+        "y": 6
+      },
+      {
+        "name": "Fdoor",
+        "type": "Door Factory",
+        "sources": [ "W1", "Ha", "Hi" ],
+        "x": 8,
+        "y": 3
+      },
+      { "name": "S1", 
+        "type": "Hinge Storage",
+        "stores": "hinge", 
+        "sources": ["Hi"] ,
+        "x": 10, 
+        "y": 10
+      },
+      {
+        "name": "DroneHub",
+        "type": "Drone Port",
+        "sources": [],
+        "x": 9,
+        "y": 4
+      }
+    ],
+  
+    "connections": [
+      { "source": "M1",    "destination": "Ha" },
+      { "source": "M1",    "destination": "Hi" },
+      { "source": "W1",    "destination": "Fdoor" },
+      { "source": "Ha",    "destination": "Fdoor" },
+      { "source": "Hi",    "destination": "Fdoor" },
+      { "source": "S1",    "destination": "DroneHub" },
+      { "source": "Hi",   "destination": "S1" }
+    ]
+  }
